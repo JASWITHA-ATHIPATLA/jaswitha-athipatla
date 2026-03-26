@@ -1,74 +1,57 @@
-<!-- 🌈 Animated Header -->
 <h1 align="center">Hi 👋, I'm Jaswitha</h1>
-<h3 align="center">💻 Passionate Web Developer | 🚀 Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Backend+Developer;Open+Source+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
+💻 Passionate Web Developer • 🚀 Tech Explorer • 🌱 Lifelong Learner
+</p>
+
+<!-- Animated typing header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Modern+Web+Apps;Crafting+Beautiful+UI;Exploring+New+Technologies;Open+Source+Enthusiast&center=true&width=500&height=50&color=61DAFB&font=Fira+Code" />
 </p>
 
 ---
 
-## 🚀 About Me  
-💻 I love building **beautiful, responsive UIs**  
-⚡ Exploring modern **web technologies**  
-🌱 Always learning and improving  
-🤝 Contributing to **open-source projects**  
+## ⚡ About Me  
+💡 I enjoy creating **responsive, user-friendly web applications**  
+⚡ Skilled in **frontend & backend technologies**  
+🌱 Always learning and experimenting with new tools  
+🤝 Passionate about **open-source contributions**  
 
 ---
 
-## ⚡ Tech Stack  
+## 🎨 Tech Stack  
 
-### 🎨 Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
-### ⚙️ Backend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 </p>
 
-### 🛠 Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
 </p>
 
-### 💡 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JASWITHA-ATHIPATLA&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JASWITHA-ATHIPATLA&theme=tokyonight" />
-</p>
-
----
-
-## 🌟 Featured Project  
-🚀 **Food Ordering UI Project**  
-📌 Check out your project here:  
-👉 https://github.com/JASWITHA-ATHIPATLA/My-workspace-  
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ---
 
-## ✨ Fun Fact  
-⚡ I turn coffee ☕ into clean and scalable code 💻  
-
----
-
-<p align="center">🔥 Thanks for visiting my profile! 🔥</p>
+<p align="center">
+✨ Turning ideas ☕ into code 💻
+</p>
